@@ -8,7 +8,7 @@
 ## <span style="color:#99c46f">SAP ABAP</span>
 - [ ] ABAP Syntax
 ## <span style="color:#99c46f">Spring boot</span>
-- [ ] Code Refactor
+- [x] Code Refactor ✅ 2024-05-07
 - [ ] Code Export Users to CSV
 - [ ] Code Export Users to Excel
 - [ ] Code Export Users to PDF
