@@ -5,10 +5,15 @@
 - [x] Tham chiếu và tham trị ✅ 2024-05-07
 - [x] ES6 class ✅ 2024-05-07
 - [x] Toán tử logic và Template String ✅ 2024-05-07
+- [ ] Arrow Function, Higher Order Function, Currying, Callback
+- [ ] Bất đồng bộ với Promise và Async Await
+- [ ] ES6 module
+- [ ] Thao tác với DOM trong Javascript
 ## <span style="color:#99c46f">SAP ABAP</span>
 - [x] ABAP Syntax ✅ 2024-05-08
 ## <span style="color:#99c46f">Spring boot</span>
 - [x] Code Refactor ✅ 2024-05-07
+- [x] Code Refactor #1 ✅ 2024-05-08
 - [x] Code Export Users to CSV ✅ 2024-05-08
 - [x] Code Export Users to Excel ✅ 2024-05-08
 - [ ] Code Export Users to PDF
