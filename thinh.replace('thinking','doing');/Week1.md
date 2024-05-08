@@ -6,11 +6,11 @@
 - [x] ES6 class ✅ 2024-05-07
 - [x] Toán tử logic và Template String ✅ 2024-05-07
 ## <span style="color:#99c46f">SAP ABAP</span>
-- [ ] ABAP Syntax
+- [x] ABAP Syntax ✅ 2024-05-08
 ## <span style="color:#99c46f">Spring boot</span>
 - [x] Code Refactor ✅ 2024-05-07
-- [ ] Code Export Users to CSV
-- [ ] Code Export Users to Excel
+- [x] Code Export Users to CSV ✅ 2024-05-08
+- [x] Code Export Users to Excel ✅ 2024-05-08
 - [ ] Code Export Users to PDF
 
 ## <span style="color:#99c46f">Languages</span> 
@@ -18,8 +18,10 @@
 - [x] Ôn lại bảng chữ cái Hiragana+Katagana ✅ 2024-05-07
 - [x] Học 10 ngữ pháp #1 ✅ 2024-05-07
 - [x] 15 từ mới + 5 kanji #1 ✅ 2024-05-07
+- [ ] Học 10 ngữ pháp #2
+- [ ] 15 từ mới + 5 kanji #2
 
 ### <span style="color:#5dceff">Toiec 800+</span>
-- [ ] Đọc tài liệu ABAP
+- [x] Đọc tài liệu ABAP ✅ 2024-05-08
 
 
