@@ -1,0 +1,280 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "a180c2c8-616e-4c78-8d8c-9dd4727407df",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Words",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "5cb00dca-25af-48f3-b56c-d1c4b45a93af",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Definition",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "2211fb45-e8fe-4c77-a998-f41f22b74869",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "190px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Ex:",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "515a8ee4-3043-46b6-9b30-775f8553217b",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-05-09T01:44:03.211Z",
+        "lastEditedDateTime": "2024-05-09T01:45:56.946Z",
+        "cells": [
+          {
+            "id": "df2d4fe9-3ebf-4629-a9a2-ca68efdd2f00",
+            "columnId": "a180c2c8-616e-4c78-8d8c-9dd4727407df",
+            "content": "accommodate",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "848730a8-6c20-4a82-ad42-c99f5472f6e2",
+            "columnId": "5cb00dca-25af-48f3-b56c-d1c4b45a93af",
+            "content": "chứa",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d847bdee-68d2-43ac-b956-b61e93e3f828",
+            "columnId": "2211fb45-e8fe-4c77-a998-f41f22b74869",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4eb733c5-7e54-4197-a3f3-aa2481fb2697",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-05-09T01:47:19.742Z",
+        "lastEditedDateTime": "2024-05-09T01:48:06.954Z",
+        "cells": [
+          {
+            "id": "6dcf3598-9dcd-4c0b-8341-103c26dbc215",
+            "columnId": "a180c2c8-616e-4c78-8d8c-9dd4727407df",
+            "content": "stringent",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0e24e131-b629-40d4-8af8-9a3e2dcfac13",
+            "columnId": "5cb00dca-25af-48f3-b56c-d1c4b45a93af",
+            "content": "nghiêm ngặt",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4faec3c3-0a6f-45dc-a9a4-6baa2fd41cb9",
+            "columnId": "2211fb45-e8fe-4c77-a998-f41f22b74869",
+            "content": "stringent test: bài kiểm tra nghiêm ngặt",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "25059336-879b-49a0-b6d4-027a641b3bce",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-05-09T01:47:20.677Z",
+        "lastEditedDateTime": "2024-05-09T01:53:45.271Z",
+        "cells": [
+          {
+            "id": "f88a1ed3-1b50-48a8-8bae-ce50bf74ec26",
+            "columnId": "a180c2c8-616e-4c78-8d8c-9dd4727407df",
+            "content": "look",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fab6d9e6-33fb-476f-97d1-84b435a16a1c",
+            "columnId": "5cb00dca-25af-48f3-b56c-d1c4b45a93af",
+            "content": "after: chăm sóc\nfor: tìm kiếm\nin: thăm viếng\nover: kiểm tra",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e171f7ea-8400-461c-a5ff-bd9d375dd0bf",
+            "columnId": "2211fb45-e8fe-4c77-a998-f41f22b74869",
+            "content": "Mr. Chan look for the right person to take over Mr.Shaw position.",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6459bbef-0886-4a04-8781-e859e06c2037",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-05-09T01:53:46.660Z",
+        "lastEditedDateTime": "2024-05-09T02:05:32.186Z",
+        "cells": [
+          {
+            "id": "df82120e-8895-44be-b78e-8e896816af7c",
+            "columnId": "a180c2c8-616e-4c78-8d8c-9dd4727407df",
+            "content": "prompt",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1c78c33c-6b56-457f-8be0-00ef7f53c823",
+            "columnId": "5cb00dca-25af-48f3-b56c-d1c4b45a93af",
+            "content": "lời nhắc",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0accb844-e699-446f-b216-d61b59f6fc91",
+            "columnId": "2211fb45-e8fe-4c77-a998-f41f22b74869",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9257e159-e042-408b-bdfb-985b0b9117ee",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-05-09T01:53:47.437Z",
+        "lastEditedDateTime": "2024-05-09T02:05:56.824Z",
+        "cells": [
+          {
+            "id": "14b2f855-4f29-41ec-9c1c-7d2586409fed",
+            "columnId": "a180c2c8-616e-4c78-8d8c-9dd4727407df",
+            "content": "prompted ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ce484368-9ca3-4698-b43e-808270336ec5",
+            "columnId": "5cb00dca-25af-48f3-b56c-d1c4b45a93af",
+            "content": "thúc đẩy",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d0f42c0a-8912-4fe7-be84-83101a16be82",
+            "columnId": "2211fb45-e8fe-4c77-a998-f41f22b74869",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "00d58744-d1a6-46e3-a535-f671c9cab40c",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-05-09T02:05:58.482Z",
+        "lastEditedDateTime": "2024-05-09T02:06:43.156Z",
+        "cells": [
+          {
+            "id": "a11b90b4-ead2-4d80-8061-702dedab4a73",
+            "columnId": "a180c2c8-616e-4c78-8d8c-9dd4727407df",
+            "content": "promptly",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b4307929-55d6-404a-a38e-b4252d2eb7a2",
+            "columnId": "5cb00dca-25af-48f3-b56c-d1c4b45a93af",
+            "content": "kịp thời",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fcbe27e2-07d1-4f93-bc17-0e08209ea82c",
+            "columnId": "2211fb45-e8fe-4c77-a998-f41f22b74869",
+            "content": "please notify us promptly.",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7fad29dd-ffb9-4cca-87aa-31d66cba78dd",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-05-09T02:06:44.594Z",
+        "lastEditedDateTime": "2024-05-09T02:20:45.745Z",
+        "cells": [
+          {
+            "id": "6df24803-c2a8-4545-9f3d-6734b8a4e5ad",
+            "columnId": "a180c2c8-616e-4c78-8d8c-9dd4727407df",
+            "content": "endorsement",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d0862a31-f6a4-458b-baaf-7e0c93dd9e6d",
+            "columnId": "5cb00dca-25af-48f3-b56c-d1c4b45a93af",
+            "content": "sự chứng thực",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "93ae2650-823a-4280-ac90-2ff352d47bb2",
+            "columnId": "2211fb45-e8fe-4c77-a998-f41f22b74869",
+            "content": "The advertisements printed in this magazine do not necessarily imply **endorsement**.",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.0"
+}
