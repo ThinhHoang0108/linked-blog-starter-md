@@ -30,5 +30,6 @@
 
 ### <span style="color:#5dceff">Toiec 800+</span>
 - [x] Đọc tài liệu ABAP ✅ 2024-05-08
+- [x] 50 câu reading trong 500 reading comprehensive ✅ 2024-05-12
 
 
