@@ -5,9 +5,9 @@
 - [x] Tham chiếu và tham trị ✅ 2024-05-07
 - [x] ES6 class ✅ 2024-05-07
 - [x] Toán tử logic và Template String ✅ 2024-05-07
-- [ ] Arrow Function, Higher Order Function, Currying, Callback
-- [ ] Bất đồng bộ với Promise và Async Await
-- [ ] ES6 module
+- [x] Arrow Function, Higher Order Function, Currying, Callback ✅ 2024-05-14
+- [x] Bất đồng bộ với Promise và Async Await ✅ 2024-05-14
+- [x] ES6 module ✅ 2024-05-14
 - [ ] Thao tác với DOM trong Javascript
 ## <span style="color:#99c46f">SAP ABAP</span>
 - [x] ABAP Syntax ✅ 2024-05-08
@@ -26,11 +26,15 @@
 - [x] Ôn lại bảng chữ cái Hiragana+Katagana ✅ 2024-05-07
 - [x] Học 10 ngữ pháp #1 ✅ 2024-05-07
 - [x] 15 từ mới + 5 kanji #1 ✅ 2024-05-07
-- [ ] Học 10 ngữ pháp #2
-- [ ] 15 từ mới + 5 kanji #2
+- [x] Học 10 ngữ pháp #2 ✅ 2024-05-14
+- [x] 15 từ mới + 5 kanji #2 ✅ 2024-05-14
+- [ ] Học 10 ngữ pháp #3
+- [ ] 15 từ mới + 5 kanji #3
+
 
 ### <span style="color:#5dceff">Toiec 800+</span>
 - [x] Đọc tài liệu ABAP ✅ 2024-05-08
 - [x] 50 câu reading trong 500 reading comprehensive ✅ 2024-05-12
+- [ ] 50 câu reading trong 500 reading comprehensive #2
 
 
