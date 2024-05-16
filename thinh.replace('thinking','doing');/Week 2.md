@@ -12,7 +12,9 @@
 ## <span style="color:#99c46f">SAP ABAP</span>
 - [x] ABAP Syntax ✅ 2024-05-08
 - [x] AppDev_Exercise_02_Development of a first program ✅ 2024-05-13
-- [ ] AppDev_Exercise_03_Basic Concepts
+- [x] AppDev_Exercise_03_Basic Concepts ✅ 2024-05-14
+- [ ] AppDev_Exercise_04_Database Access
+- [ ] AppDev_Exercise_05_Dynamic Programs
 ## <span style="color:#99c46f">Spring boot</span>
 - [x] Code Refactor ✅ 2024-05-07
 - [x] Code Refactor #1 ✅ 2024-05-08
